@@ -1,8 +1,9 @@
+import TextFields from "./TextFields";
 
 function App() {
   return (
     <div>
-      hello
+      <TextFields />
     </div>
   );
 }
